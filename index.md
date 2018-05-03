@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<!DOCTYPE .html>
 <html>
 <head>
     <meta charset='utf-8' />
@@ -46,11 +46,11 @@ section:last-child {
 <div id='features'>
     <section id='welcome' class='active'>
         <h3>Hey, there!</h3>
-        <p>Welcome to a resumap! A resume can only say so much. <br><br>🤖 And they tend to feel robotic, don't they? <br><br>Resumaps are designed to fill the gaps in your resume. If you want to stand out, a resumap is a fun way to help people get to know you. After all, wouldn't you want to know who you're hiring? So if you want see more, sit back, relax, and enjoy the flight 🚀</p>
+        <p>Welcome to my Resumap! <br><br> I wanted a chance to let you see what I have seen. <br><br>Resumaps are designed to be a more interactive resume. So if you want see more, sit back, relax, and enjoy the flight 🚀</p>
     </section>
     <section id='section1' class='active'>
         <h3>Section 1</h3>
-        <p>Here's where you can add a narrative to take your resume to the next level. Where did you come from? What really brought you there? What made you leave? This is to let people get a glimpse of who the person behind the paper is. This is New Mexico...but you can center your map however you want.
+        <p>I was born and raised in the Little Rock metropolitan area. My first job was managing the Concession Stand at my local baseball field.
     </section>
     <section id='section2'>
         <h3>Section 2</h3>
@@ -79,7 +79,7 @@ section:last-child {
     </section>
 </div>
 <script>
-mapboxgl.accessToken = 'pk.eyJ1IjoibWluaXRhY2tldHQiLCJhIjoiY2pncWwzamt3MDB1dzMzbmg0bWZ5azJ2NCJ9.CplwUoS6pOnnPM6E1w8i5w';
+mapboxgl.accessToken = 'pk.eyJ1IjoibWluaXRhY2tldHQiLCJhIjoiY2pncW51NWJvMDI4eDJ6bTZhZnk3Zjc3eSJ9.LsQuxM_-2OkVqnAdO_zSHg';
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/outdoors-v10',
